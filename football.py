@@ -18,7 +18,7 @@ def keep_alive():
     t.start()
 
 # --- КЛЮЧИ ---
-TOKEN = '8624691803:AAHONwvZ3e6A99Aac-JjwEdUvJgpqiqM1m0'
+TOKEN = '8624691803:AAHBjvIvM8qUNwSY9wrkzAXu44BiiiICe9U'
 FOOTBALL_API_KEY = 'f2539298091241a187bf9394eb390ab7'
 HF_TOKEN = "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"
 
